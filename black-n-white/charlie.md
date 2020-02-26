@@ -26,7 +26,7 @@
 
    <main>
 
-   <img src="img/charlie.jpg" alt="Charlie" />
+   <img src="charlie.jpg" alt="Charlie" />
 
    <ul>
         <li><strong>Owner of:</strong> Daren</li>
@@ -34,6 +34,6 @@
         <li><strong>Favorite food:</strong> Fried Chicken</li>
       </ul>
 
-    </main>
+   </main>
   </body>
 </html>
